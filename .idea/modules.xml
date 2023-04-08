@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stop_Watch_by_Anadi_hirpara.iml" filepath="$PROJECT_DIR$/.idea/modules/Stop_Watch_by_Anadi_hirpara.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirpara.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stop_Watch_by_Anadi_hirparaa.iml" filepath="$PROJECT_DIR$/.idea/modules/Stop_Watch_by_Anadi_hirparaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Stop_Watch_by_Anadi_hirparaa.app.unitTest.iml" />
     </modules>
   </component>
 </project>
